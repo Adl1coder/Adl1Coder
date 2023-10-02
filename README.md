@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Kotlin,Java**
 
-- 👯 I’m looking to collaborate on **FairyTaleApp**
-
 - 📝 I regularly write articles on [https://medium.com/@adilegungor](https://medium.com/@adilegungor)
 
 - 💬 Ask me about ** Kotlin, Java**
