@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **EcommerceApp**
 
-- 🌱 I’m currently learning **Kotlin,Java**
+- 🌱 I’m currently learning  **Kotlin,java**
 
 - 📝 I regularly write articles on [https://medium.com/@adilegungor](https://medium.com/@adilegungor)
 
