@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@adilegungor](https://medium.com/@adilegungor)
 
-- 💬 Ask me about ** Kotlin, Java**
+- 💬 Ask me about **Kotlin,Java**
 
 - 📫 How to reach me **adilegunngorr@gmail.com**
 
