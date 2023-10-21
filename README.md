@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adl1coder&label=Profile%20views&color=0e75b6&style=flat" alt="adl1coder" /> </p>
 
-- 🔭 I’m currently working on **EcommerceApp**
-
-- 🌱 I’m currently learning  **Kotlin,java**
+- 🌱 I’m currently learning  **Kotlin,java,Python**
 
 - 📝 I regularly write articles on [https://medium.com/@adilegungor](https://medium.com/@adilegungor)
 
-- 💬 Ask me about **Kotlin,Java**
+- 💬 Ask me about **Kotlin,Java,Python**
 
 - 📫 How to reach me **adilegunngorr@gmail.com**
 
