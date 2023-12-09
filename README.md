@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@adilegungor](https://medium.com/@adilegungor)
 
-- 💬 Ask me about **Kotlin,Java,Python**
-
 - 📫 How to reach me **adilegunngorr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
