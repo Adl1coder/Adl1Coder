@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adl1coder&label=Profile%20views&color=0e75b6&style=flat" alt="adl1coder" /> </p>
 
-- 🌱 I’m currently learning  **Kotlin,java,Python**
+- 🌱 I’m currently learning  **Kotlin,java,Python,c#**
 
 - 📝 I regularly write articles on [https://medium.com/@adilegungor](https://medium.com/@adilegungor)
 
