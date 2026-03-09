@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Junior Android developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adl1coder&label=Profile%20views&color=0e75b6&style=flat" alt="adl1coder" /> </p>
-
-- 📝 I write articles on [https://medium.com/@adilegungor](https://medium.com/@adilegungor)
-
 - 📫 How to reach me **adilegunngorr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
